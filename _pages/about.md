@@ -11,12 +11,12 @@ toc_label: "About"
 <br>
 모든 순간을 소중히, 즐겁게.<br>
 I’m a **software engineer** by day,<br>
-and a **freediver** by night (just sometimes😏)!
+and a **freediver** by night (well sometimes😏)!
 
 ## Profile
 <center>
-<img src="/assets/images/profile.jpg" style="
-border: 1px solid #cab6de;
+<img src="/assets/images/profile3.jpg" style="
+border: 1px solid #e9dcbe;
 border-radius: 50%;
 padding: 5px;
 -moz-border-radius: 50%;
