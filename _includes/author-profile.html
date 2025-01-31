@@ -22,8 +22,7 @@
     {% endif %}
   </div>
 
-  <!-- # 링크들은 아직 필요없어,,
-  <div class="author__urls-wrapper">
+  <div class="author__urls-wrapper" style="display:none;">
     <button class="btn btn--inverse">{{ site.data.ui-text[site.locale].follow_label | remove: ":" | default: "Follow" }}</button>
     <ul class="author__urls social-icons">
       {% if author.location %}
@@ -244,5 +243,4 @@
       {% include author-profile-custom-links.html %}
     </ul>
   </div>
-  -->
 </div>
