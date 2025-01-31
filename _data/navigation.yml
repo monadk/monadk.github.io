@@ -1,9 +1,11 @@
 # main links
 main:
-  - title: "Home"
-    url: https://monadk.github.io/
+  #- title: "Home"
+  #  url: https://monadk.github.io/
   - title: "About"
     url: /about/
+  - title: "Category"
+    url: /categories/
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
   # - title: "Sample Posts"
@@ -12,3 +14,28 @@ main:
   #   url: /collection-archive/
   # - title: "Sitemap"
   #   url: /sitemap/
+
+# sidebar nav
+docs:
+  - title: "Freediving"
+    children:
+      - title: "Logbook" # 로그북
+        url: /logbook/
+      - title: "Tour" # 프리다이빙 투어 후기, 느낀점
+        url: /tour/
+      - title: "FD Note" # 그외 잡다한 프리다이빙 관련 노트
+        url: /fdnote/
+
+  - title: "Language"
+    children:
+      - title: "English"
+        url: /english/
+
+  - title: "Monad"
+    children:
+      - title: "TIL" # Today I Learned
+        url: /til/
+      - title: "Travel" # 여행 기록
+        url: /travel/
+      - title: "Record" # 모든 이야기, 후기
+        url: /record/

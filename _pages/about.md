@@ -29,7 +29,7 @@ height: 30%;
 
 * I am : Jade Kim (김승연)
 * Majored In : Computer Science & Engineering
-* Currently Working : as a **Software Engineer**
+* Currently Working : as a Software Engineer
 
 ## Career
  - Software Engineer @kt ds (2021.01 ~ Current)
