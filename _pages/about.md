@@ -11,7 +11,7 @@ toc_label: "About"
 <br>
 모든 순간을 소중히, 즐겁게.<br>
 I’m a **software engineer** by day,<br>
-and a **freediver** by night (well sometimes😏)!
+and a **freediver** by night (well sometimes😏).
 
 ## Profile
 <center>
@@ -32,8 +32,8 @@ height: 30%;
 * Currently Working : as a Software Engineer
 
 ## Career
- - Software Engineer @kt ds (2021.01 ~ Current)
- - Support Engineer @OpenText (2019.02 ~ 2020.04)
+ - Software Engineer @[kt ds](https://ktds.com) (2021.01 ~ Current)
+ - Support Engineer @[OpenText](https://opentext.com) (2019.02 ~ 2020.04)
 
 ## Current Interests
  * Azure
